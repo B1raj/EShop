@@ -26,6 +26,10 @@ This application is developed on top of Spring boot and H2 in memory DB.
    - Create a cart
    - Add order to the Cart
    - Checkout <br>
+
+
+Run Command : Start as Spring boot app mvn clean spring-boot:run
+
   
 ![Screenshot](./pict-2.png)
 
