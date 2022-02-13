@@ -16,7 +16,7 @@ This application is developed on top of Spring boot and H2 in memory DB.
 4. This application exposes the rest endpoints for all above CRUD operations, a front end application call over the network. For the sake of this application Insomnia is used and checked in along with the source code [Insomnia-API-Spec.json] 
 5. This application is hosted on HTTP, if needed can be hosted on HTTPS.
 6. Open API specifications can be exposed if needed.
-7. With H2 db all scripts are already used already used to populate the tables as shown in below screenshot
+7. With H2 db all scripts are already used already used to populate the tables as shown in below screenshot. <br>
 ![Screenshot](./pict-1.png)
 
 8. Usage:
@@ -25,12 +25,13 @@ This application is developed on top of Spring boot and H2 in memory DB.
    - Create a cart
    - Add order to the Cart
    - Checkout <br>
+  
 ![Screenshot](./pict-2.png)
 
 9.Checkout feature calculated the total Bill with items and returns in JSON format Showing All Items, Quantity, Amount and Discount Amount <br>
 ![Screenshot](./pict-3.png)
 
-10. Junit test cases are used to ensure atmost code coverage with both positive and negative scenarios
+10. Junit test cases are used to ensure atmost code coverage with both positive and negative scenarios <br>
 ![Screenshot](./pict-4.png)
 
 ### Out Of Scope:
