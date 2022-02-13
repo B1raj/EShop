@@ -17,6 +17,7 @@ This application is developed on top of Spring boot and H2 in memory DB.
 5. This application is hosted on HTTP, if needed can be hosted on HTTPS.
 6. Open API specifications can be exposed if needed.
 7. With H2 db all scripts are already used already used to populate the tables as shown in below screenshot. <br>
+
 ![Screenshot](./pict-1.png)
 
 8. Usage:
