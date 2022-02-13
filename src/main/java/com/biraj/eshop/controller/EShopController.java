@@ -181,8 +181,8 @@ public class EShopController {
     }
 
     private double getPrice(int quantity,double price, double discountPercent) {
-
-        return (quantity*price/2)*((100+discountPercent)/100);
+          return (quantity*price/2)*((200-discountPercent)/100);
+        //return (quantity*price/2)*((100+discountPercent)/100);
     }
 
 }
