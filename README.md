@@ -30,6 +30,8 @@ This application is developed on top of Spring boot and H2 in memory DB.
 9.Checkout feature calculated the total Bill with items and returns in JSON format Showing All Items, Quantity, Amount and Discount Amount <br>
 ![Screenshot](./pict-3.png)
 
+10. Junit test cases are used to ensure atmost code coverage with both positive and negative scenarios
+![Screenshot](./pict-4.png)
 
 ### Out Of Scope:
 - Logging
